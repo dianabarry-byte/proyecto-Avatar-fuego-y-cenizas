@@ -1,0 +1,30 @@
+#fondodeavatar {
+    background-image: url(../Img/fondodpersonajes.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+
+#cajadetexto {
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+  
+}
+
+h1 {
+    color: #fcf1cf;
+  font-size: 29px;
+    text-shadow: 2px 2px 7px #000000;
+}
+
+
+
+#agradecimiento {
+    font-size: 20px;
+    color: #fcf1cf;
+    text-shadow:2px 2px 7px #000000;
+}
+

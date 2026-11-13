@@ -19,7 +19,6 @@ body {
   background-size: cover
 }
 
-
 h2 {
   color: #850505
 }
@@ -86,7 +85,8 @@ main {
   color: #fcf1cf;
 }
 
-#cancion{display: flex;
+#cancion {
+  display: flex;
   justify-content: center;
 
 }
@@ -208,7 +208,7 @@ hr {
   margin-right: auto;
   border-radius: 4px;
   box-shadow: 2px 3px 11px;
-  
+
 
 }
 
@@ -252,12 +252,7 @@ span {
   color: rgb(0, 0, 0);
 }
 
-.botoncontacto:hover {
-  background-color: rgb(92, 7, 7);
-  color: #fcf1cf;
-  scale: 1.1;
 
-}
 
 #tituloerror {
   text-align: center;
@@ -280,8 +275,8 @@ span {
   transition: 0.3s;
   background-size: 200% auto;
   color: white;
-  box-shadow: 0 0 20px #eee;
-  border-radius: 10px;
+ 
+  border-radius: 20px;
   outline: none;
   text-decoration: none;
 }
