@@ -18,6 +18,9 @@ h1 {
     color: #fcf1cf;
     font-size: 29px;
     text-shadow: 2px 2px 7px #000000;
+    text-decoration: underline wavy;
+    text-decoration-thickness: 1.4px
+  
 }
 
 
