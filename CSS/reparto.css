@@ -1,5 +1,8 @@
-body {
-    background-color: rgb(0, 0, 0);
+#fondodefuego{
+ background-image: url(../Img/fuego.webp);
+ background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }
 
 h1 {
