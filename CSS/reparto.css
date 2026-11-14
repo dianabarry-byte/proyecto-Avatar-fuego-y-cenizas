@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1 {
+    color: #fcf1cf;
+    text-align: center;
+    text-decoration: underline;
+    -webkit-animation: focus-in-expand-fwd 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    animation: focus-in-expand-fwd 0.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+}
